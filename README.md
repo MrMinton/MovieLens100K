@@ -7,6 +7,14 @@ The data was collected by the **GroupLens Research Project** at the University o
 
 ---
 
+## Dataset Download Links
+If you need to re-download the dataset or access it directly from the source, you can find it via the official GroupLens channels:
+* **Direct Download (Stable Link):** [GroupLens MovieLens 100k Dataset](https://files.grouplens.org/datasets/movielens/ml-100k.zip)
+* **Official Website:** [GroupLens Datasets Page](https://grouplens.org/datasets/movielens/)
+* **MovieLens Platform:** [MovieLens Web App](http://www.movielens.org/)
+
+---
+
 ## Core Data Files
 
 ### 1. `u.data` (Ratings Matrix)
